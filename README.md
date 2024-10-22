@@ -11,3 +11,5 @@ This project is a PDF bot that processes multiple PDF documents simultaneously u
 - **Scalable Performance**: Optimized for handling large datasets of PDFs quickly and efficiently.
 - **Groq Integration**: Utilizes Groq's highly parallel architecture to accelerate processing tasks.
 - **Modular Design**: Easily extensible to add new features such as sentiment analysis, keyword extraction, or any other NLP tasks on the PDF content.
+
+Check out my GitHub for the full project demo here :https://polydocs-u4zxh5e5neznq6ngfs4vnx.streamlit.app/ 
